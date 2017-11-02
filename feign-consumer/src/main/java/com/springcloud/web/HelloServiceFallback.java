@@ -5,9 +5,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestParam;
 
-/**
- * Created by Administrator on 2016/9/16.
- */
+
 @Component
 public class HelloServiceFallback implements HelloService {
 
